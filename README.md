@@ -1,2 +1,2 @@
 # Amory-Skitarii-Vanguard-Alpha
-Vanguard armor with elektric parts 
+Vanguard armor with electric parts 
